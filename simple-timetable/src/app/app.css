@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th {
+  background-color: lightblue;
+}
+
+th, td {
+  padding: 12px;
+}
