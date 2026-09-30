@@ -1,5 +1,5 @@
 # Angular-Practicals
-Student Name:Dnyaneshwari Rajendra Nanekar
-Roll Number:SM2201
+Student Name:Komal Anil Nehete
+Roll Number:SM1130
 Class:SYMSC(CS)
 Course/Subject:Angular Framework
